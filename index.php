@@ -3,7 +3,7 @@
 //$ip_address = $_SERVER['REMOTE_ADDR'];
 
 // Step 2: Use the ipstack API to get location data
-//$access_key = 'f2c7a5ecf35359f0e48fe362f5437ae2';  // Replace with your ipstack API key
+//$access_key = '';  // Replace with your ipstack API key
 //$url = "http://api.ipstack.com/{$ip_address}?access_key={$access_key}";
 
 // Step 3: Fetch the location data
